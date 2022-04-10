@@ -40,15 +40,16 @@ an output with a Pinterest link directly below it, you're good.
 WINDOWS / LINUX:
 3) Type "cd [DIRECTORY YOU DOWNLOADED THE CODE IN]".
 5) Type "cd pinterestpingenerator".
+
 6) Type "randompin.py".
 
 MAC:
 
-3) Type "python [PATH TO THE DIRECTORY YOU DOWNLOADED THE CODE IN]".
-5) Type "python randompin.py".
+7) Type "python [PATH TO THE DIRECTORY YOU DOWNLOADED THE CODE IN]".
+8) Type "python randompin.py".
 
-6) Copy and paste the link output into your browser of choice.
-    6a) IF YOU PUT IN MULTIPLE SEARCH QUERIES, the program will just run twice. 
+9) Copy and paste the link output into your browser of choice.
+    9a) IF YOU PUT IN MULTIPLE SEARCH QUERIES, the program will just run twice. 
 
 
 
