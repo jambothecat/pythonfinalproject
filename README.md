@@ -25,8 +25,9 @@ MAC OS: "pip3 install beautifulsoup4"
 LINUX: "pip install beautifulsoup4"
 
 ***Any error with any semblance of "node connection" should be ignored, as it's an error with the webdriver, not the code. If there's
-an output with a Pinterest link directly below it, you're good.
-***If there is no link output, then Pinterest changed their HTML. Please send a pull request if this is the case.
+an output with a Pinterest link directly below it, you're good.***
+
+***If there is no link output, then Pinterest changed their HTML. Please send a pull request if this is the case.***
 
 
 
