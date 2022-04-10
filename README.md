@@ -39,8 +39,8 @@ an output with a Pinterest link directly below it, you're good.
 
 WINDOWS / LINUX:
 3) Type "cd [DIRECTORY YOU DOWNLOADED THE CODE IN]".
-4) Type "cd pinterestpingenerator".
-5) Type "randompin.py".
+5) Type "cd pinterestpingenerator".
+6) Type "randompin.py".
 
 MAC:
 
