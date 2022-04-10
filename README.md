@@ -43,8 +43,9 @@ WINDOWS / LINUX:
 5) Type "randompin.py".
 
 MAC:
+
 3) Type "python [PATH TO THE DIRECTORY YOU DOWNLOADED THE CODE IN]".
-4) Type "python randompin.py".
+5) Type "python randompin.py".
 
 6) Copy and paste the link output into your browser of choice.
     6a) IF YOU PUT IN MULTIPLE SEARCH QUERIES, the program will just run twice. 
@@ -56,4 +57,5 @@ MAC:
 # PART FOUR: Credits
 
 Majority of the code is from The Hippie Hacker's Pinterest recipe scraper. Thank you!
+
 LINK: https://youtu.be/Y7VSjHgd76c
