@@ -16,7 +16,7 @@ The purpose of this program is to fetch a random pin from the search results of 
 * BeautifulSoup
 * Google Chrome
 
-**How to Download BeautifulSoup (once Python has been installed):
+**How to Download BeautifulSoup (once Python has been installed):**
 
 !! DOUBLE CHECK IF PIP IS PROPERLY INSTALLED FIRST !!
 
