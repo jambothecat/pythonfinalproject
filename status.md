@@ -2,15 +2,15 @@
 
 #### Your name
 
-TODO
+Sabrina M.
 
 #### Your section leader's name
 
-TODO
+Joanne Arnold Nichols
 
 #### Project title
 
-TODO
+Random Pinterest Pin Generator
 
 ***
 
@@ -18,12 +18,12 @@ Short answers for the below questions suffice. If you want to alter your plan fo
 
 #### What have you done for your project so far?
 
-TODO
+So far, the basic goal has been completed for the project, and it is able to generate a random link to a pin as stated in the proposal. However, it does not generate an entirely random pin, it just generates a random pin given a search query.
 
 #### What have you not done for your project yet?
 
-TODO
+The bare minimum is completed, however there are some improvements that would make the program even better. For example, Pinterest's HTML is constantly updated, so we are still trying to come up with code to work around this. We also need to upload different versions of the program so it can run on different browsers (given that Selenium has the driver available).
 
 #### What problems, if any, have you encountered?
 
-TODO
+We're having trouble getting the program to run on Bryan's laptop so he can make his changes, despite having the necessary hardware downloaded (ie. Selenium, Beautiful Soup, etc.). I am still trying to come up with a workaround for that.
