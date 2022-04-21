@@ -15,6 +15,7 @@ The purpose of this program is to fetch a random pin from the search results of 
 * Python
 * BeautifulSoup
 * Google Chrome
+* Selenium
 
 **How to Download BeautifulSoup (once Python has been installed):**
 
@@ -29,6 +30,14 @@ an output with a Pinterest link directly below it, you're good.***
 
 ***If there is no link output, then Pinterest changed their HTML. Please send a pull request if this is the case.***
 
+**How to Download Selenium (once Python has been installed):**
+!! DOUBLE CHECK IF PIP IS PROPERLY INSTALLED FIRST !!
+
+WINDOWS: "pip install selenium" / "python3 -m pip install selenium"
+MAC OS: "pip3 install selenium"
+LINUX: "pip install selenium"
+
+Any errors encountered related to Python not being able to find the Selenium module requires you to double check if Selenium is downloaded to the correct path/directory (if you have multiple versions of Python on your computer).
 
 
 
