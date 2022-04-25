@@ -47,7 +47,7 @@ class RandomPinGenerator:
         # print(pins)-> debug
 
         # This is where original code starts. EVERYTHING ELSE ISN'T MINE AND
-        # IS TAKEN FROM "THE HIPPIE HACKER". SEE THE README FOR THE LINK.
+        # IS TAKEN FROM "THE HIPPIE HACKER": https://youtu.be/Y7VSjHgd76c
         index = 0
         results = []
         numbers = "0123456789"
