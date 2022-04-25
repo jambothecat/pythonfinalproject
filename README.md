@@ -44,7 +44,7 @@ Any errors encountered related to Python not being able to find the Selenium mod
 
 # PART THREE: The Good Stuff
 
-1) Choose browser of your choice. *For Safari, please refer to this tutorial on how to enable the in-browser webdriver. There is no separate webdriver file
+1) Choose either the Safari, Chrome, or the Firefox folder depending on which browser is available to you. *For Safari, please refer to this tutorial on how to enable the in-browser webdriver. There is no separate webdriver file
 for Safari like Chrome or Firefox: https://www.browserstack.com/guide/run-selenium-tests-on-safari-using-safaridriver*
 2) Edit "searchQueries.csv" in your program of choice to your desired search query. ONE ROW = ONE SEARCH QUERY
 3) Open up the command terminal.
