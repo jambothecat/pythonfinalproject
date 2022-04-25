@@ -1,8 +1,4 @@
-Last Updated: 04/10/2022
-
-
-**DISCLAIMER:** If someone else that's not the professor or TA sees this, this is a beginner
-Python project! If there's anything we can improve, let us know!
+Last Updated: 04/25/2022
 
 # PART ONE: What is This?
 The purpose of this program is to fetch a random pin from the search results of one or more search queries.
@@ -31,6 +27,7 @@ an output with a Pinterest link directly below it, you're good.***
 ***If there is no link output, then Pinterest changed their HTML. Please send a pull request if this is the case.***
 
 **How to Download Selenium (once Python has been installed):**
+
 !! DOUBLE CHECK IF PIP IS PROPERLY INSTALLED FIRST !!
 
 WINDOWS: "pip install selenium" / "python3 -m pip install selenium"
@@ -44,19 +41,19 @@ Any errors encountered related to Python not being able to find the Selenium mod
 
 # PART THREE: The Good Stuff
 
-1) Choose either the Safari, Chrome, or the Firefox folder depending on which browser is available to you. *For Safari, please refer to this tutorial on how to enable the in-browser webdriver. There is no separate webdriver file
+1) Open up the folder titled 'randompingenerator'. Choose either the Safari, Chrome, or the Firefox folder depending on which browser is available to you. *For Safari, please refer to this tutorial on how to enable the in-browser webdriver. There is no separate webdriver file
 for Safari like Chrome or Firefox: https://www.browserstack.com/guide/run-selenium-tests-on-safari-using-safaridriver*
 2) Edit "searchQueries.csv" in your program of choice to your desired search query. ONE ROW = ONE SEARCH QUERY
 3) Open up the command terminal.
 
-WINDOWS / LINUX:
+**WINDOWS / LINUX:**
 
 4) Type "cd [DIRECTORY YOU DOWNLOADED THE CODE IN]".
 5) Type "cd pinterestpingenerator".
 
 6) Type "randompin.py".
 
-MAC:
+**MAC:**
 
 4) Type "python [PATH TO THE DIRECTORY YOU DOWNLOADED THE CODE IN]".
 5) Type "python randompin.py".
