@@ -44,23 +44,25 @@ Any errors encountered related to Python not being able to find the Selenium mod
 
 # PART THREE: The Good Stuff
 
-1) Edit "searchQueries.csv" in your program of choice to your desired search query. ONE ROW = ONE SEARCH QUERY
-2) Open up the command terminal.
+1) Choose browser of your choice. *For Safari, please refer to this tutorial on how to enable the in-browser webdriver. There is no separate webdriver file
+for Safari like Chrome or Firefox: https://www.browserstack.com/guide/run-selenium-tests-on-safari-using-safaridriver*
+2) Edit "searchQueries.csv" in your program of choice to your desired search query. ONE ROW = ONE SEARCH QUERY
+3) Open up the command terminal.
 
 WINDOWS / LINUX:
 
-3) Type "cd [DIRECTORY YOU DOWNLOADED THE CODE IN]".
-4) Type "cd pinterestpingenerator".
+4) Type "cd [DIRECTORY YOU DOWNLOADED THE CODE IN]".
+5) Type "cd pinterestpingenerator".
 
-5) Type "randompin.py".
+6) Type "randompin.py".
 
 MAC:
 
-3) Type "python [PATH TO THE DIRECTORY YOU DOWNLOADED THE CODE IN]".
-4) Type "python randompin.py".
+4) Type "python [PATH TO THE DIRECTORY YOU DOWNLOADED THE CODE IN]".
+5) Type "python randompin.py".
 
-5) Copy and paste the link output into your browser of choice.
-    5a) IF YOU PUT IN MULTIPLE SEARCH QUERIES, the program will just run twice. 
+6) Copy and paste the link output into your browser of choice.
+    6a) **IF YOU PUT IN MULTIPLE SEARCH QUERIES**, the program will just run twice. 
 
 
 
